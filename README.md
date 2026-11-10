@@ -22,8 +22,8 @@ I build practical web, mobile, and AI-powered solutions—connecting clean user 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=david-octopustech&show_icons=true&theme=tokyonight&hide_border=true" alt="David's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-octopustech&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=david-octopustech&theme=tokyonight" alt="David's GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=david-octopustech&theme=tokyonight" alt="Most used languages" />
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ I build practical web, mobile, and AI-powered solutions—connecting clean user 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=david-octopustech&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=david-octopustech&theme=tokyonight&utcOffset=8" alt="GitHub activity graph" />
 </p>
 
 ---
